@@ -1,0 +1,36 @@
+.menu-white{
+	background-color: white;
+	text-align: center;
+	padding: 30px;
+	font-size: 20px;
+}
+.menu-white a{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	color: black;
+	background-color: white;
+	display: inline;
+	margin: 0px 25px;
+}
+.menu-white a:hover{
+	color: white;
+	background-color: #b69664;
+	padding: 15px 10px;
+}
+.banner{
+	height: 90vh;
+	background-image: url("../images/banniere.jpeg");
+	background-size: cover;
+	background-attachment: fixed;
+	flex-direction: column;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+#intro{
+	background-color: white;
+	opacity: 80%;
+	margin: 1px 400px;
+}
